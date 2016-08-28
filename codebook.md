@@ -29,26 +29,26 @@ obtained by calculating variables from the time and frequency domain. See 'featu
 ### Input Data Set 
 The data set is having the following files:-
 
- 1. 'features_info.txt': Shows information about the variables used on the feature vector.
- 2. 'features.txt': List of all features.
- 3. 'activity_labels.txt': Links the class labels with their activity name.
- 4. 'train/X_train.txt': Training set.
- 5. 'train/y_train.txt': Training labels.
- 6. 'test/X_test.txt': Test set.
- 7. 'test/y_test.txt': Test labels.
+01. 'features_info.txt': Shows information about the variables used on the feature vector.
+02. 'features.txt': List of all features.
+03. 'activity_labels.txt': Links the class labels with their activity name.
+04. 'train/X_train.txt': Training set.
+05. 'train/y_train.txt': Training labels.
+06. 'test/X_test.txt': Test set.
+07. 'test/y_test.txt': Test labels.
 
 ### Ouput Data Set
 The selected meassurement variables for each subject and each activity:
 
- 1. MeanOfTimeBodyAccMeanX
- 2. MeanOfTimeBodyAccMeanY
- 3. MeanOfTimeBodyAccMeanZ
- 4. MeanOfTimeBodyAccStdX
- 5. MeanOfTimeBodyAccStdY
- 6. MeanOfTimeBodyAccStdZ
- 7. MeanOfTimeGravityAccMeanX
- 8. MeanOfTimeGravityAccMeanY
- 9. MeanOfTimeGravityAccMeanZ
+01. MeanOfTimeBodyAccMeanX
+02. MeanOfTimeBodyAccMeanY
+03. MeanOfTimeBodyAccMeanZ
+04. MeanOfTimeBodyAccStdX
+05. MeanOfTimeBodyAccStdY
+06. MeanOfTimeBodyAccStdZ
+07. MeanOfTimeGravityAccMeanX
+08. MeanOfTimeGravityAccMeanY
+09. MeanOfTimeGravityAccMeanZ
 10. MeanOfTimeGravityAccStdX
 11. MeanOfTimeGravityAccStdY
 12. MeanOfTimeGravityAccStdZ
