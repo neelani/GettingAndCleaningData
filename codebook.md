@@ -26,7 +26,7 @@ have only low frequency components, therefore a filter with 0.3 Hz cutoff freque
 obtained by calculating variables from the time and frequency domain. See 'features_info.txt' for more details. 
 
 
-### Input Data Set
+### Input Data Set 
 The data set is having the following files:-
 
  1. 'features_info.txt': Shows information about the variables used on the feature vector.

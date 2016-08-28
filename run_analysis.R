@@ -1,6 +1,6 @@
 ########################################################################################################## 
 ## Project     : Coursera Getting and Cleaning Data 
-## Author      : Umapathy Bhakthavatuslu
+## Author      : Neelani
 ## Created Date: 2016-08-22 
 ## Program     : runAnalysis.R 
 
